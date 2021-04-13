@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "d6c88033-e7d5-4ae3-b476-4c8f4547d55e",
+		"name": "CiceksepetiApiTest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ApiRequest",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
